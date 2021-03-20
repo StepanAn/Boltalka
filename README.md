@@ -1,2 +1,2 @@
 # Boltalka
-Social network by StepanAn
+Social network by Step
