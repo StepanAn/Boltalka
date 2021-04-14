@@ -1,0 +1,17 @@
+C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.csprojAssemblyReference.cache
+C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\Business.deps.json
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\Business.dll
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\ref\Business.dll
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\Business.pdb
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\Models.dll
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\Repository.dll
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\Repository.pdb
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\Models.pdb
+C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.dll
+C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\ref\Business.dll
+C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.pdb
