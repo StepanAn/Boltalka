@@ -1,0 +1,12 @@
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\bin\Debug\net5.0\BLModels.deps.json
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\bin\Debug\net5.0\BLModels.dll
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\bin\Debug\net5.0\ref\BLModels.dll
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\bin\Debug\net5.0\BLModels.pdb
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\BLModels.csprojAssemblyReference.cache
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\BLModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\BLModels.AssemblyInfoInputs.cache
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\BLModels.AssemblyInfo.cs
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\BLModels.csproj.CoreCompileInputs.cache
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\BLModels.dll
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\ref\BLModels.dll
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\BLModels.pdb

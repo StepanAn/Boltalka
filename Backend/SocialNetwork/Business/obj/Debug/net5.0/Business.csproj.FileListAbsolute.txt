@@ -15,3 +15,5 @@ C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.csproj
 C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.dll
 C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\ref\Business.dll
 C:\SocialNetwork\Backend\SocialNetwork\Business\obj\Debug\net5.0\Business.pdb
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\BLModels.dll
+C:\SocialNetwork\Backend\SocialNetwork\Business\bin\Debug\net5.0\BLModels.pdb

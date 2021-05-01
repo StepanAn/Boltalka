@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Repository.Infrastructure;
 
-namespace Business.Infrastructure
+namespace SocialNetworkBLL.Infrastructure
 {
     public static class AppBuilder
     {

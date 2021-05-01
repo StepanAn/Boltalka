@@ -13,3 +13,8 @@ C:\SocialNetwork\Backend\SocialNetwork\Repository\obj\Debug\net5.0\Repository.cs
 C:\SocialNetwork\Backend\SocialNetwork\Repository\obj\Debug\net5.0\Repository.dll
 C:\SocialNetwork\Backend\SocialNetwork\Repository\obj\Debug\net5.0\ref\Repository.dll
 C:\SocialNetwork\Backend\SocialNetwork\Repository\obj\Debug\net5.0\Repository.pdb
+C:\SocialNetwork\Backend\SocialNetwork\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\SocialNetwork\Backend\SocialNetwork\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\SocialNetwork\Backend\SocialNetwork\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+C:\SocialNetwork\Backend\SocialNetwork\Repository\bin\Debug\net5.0\ModelsDTO.dll
+C:\SocialNetwork\Backend\SocialNetwork\Repository\bin\Debug\net5.0\ModelsDTO.pdb

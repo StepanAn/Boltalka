@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "firstName": "Stepan",
+      "surName": "Anufriev",
+      "password": "22082007St@",
+      "email": "anufr8319@gmail.com"
+    },
+    {
+      "firstName": "Admin",
+      "surName": "Adminov",
+      "password": "1j22hd9dhdZ;",
+      "email": "someemail@mail.com"
+    }
+  ]
+}

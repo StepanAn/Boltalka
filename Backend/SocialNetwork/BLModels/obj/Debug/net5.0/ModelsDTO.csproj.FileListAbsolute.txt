@@ -1,0 +1,12 @@
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\bin\Debug\net5.0\ModelsDTO.deps.json
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\bin\Debug\net5.0\ModelsDTO.dll
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\bin\Debug\net5.0\ref\ModelsDTO.dll
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\bin\Debug\net5.0\ModelsDTO.pdb
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\ModelsDTO.csprojAssemblyReference.cache
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\ModelsDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\ModelsDTO.AssemblyInfoInputs.cache
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\ModelsDTO.AssemblyInfo.cs
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\ModelsDTO.csproj.CoreCompileInputs.cache
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\ModelsDTO.dll
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\ref\ModelsDTO.dll
+C:\SocialNetwork\Backend\SocialNetwork\BLModels\obj\Debug\net5.0\ModelsDTO.pdb

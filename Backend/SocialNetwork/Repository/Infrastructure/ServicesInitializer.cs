@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using ModelsDTO;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Models;
+using Repository.Interfaces;
 
 namespace Repository.Infrastructure
 {
@@ -12,9 +12,13 @@ namespace Repository.Infrastructure
         {
             services.AddDbContext<ApplicationContext>(options =>
             options.UseSqlServer(defaultConnection));
-            services.AddIdentity<User, IdentityRole>()
+            services.AddIdentity<Models.User, IdentityRole>(opts => {
+                opts.Password.RequireNonAlphanumeric = false;
+            })
                 .AddEntityFrameworkStores<ApplicationContext>();
             services.AddTransient<ApplicationContext>();
+            services.AddTransient<IRepository<PostDTO>, PostRepository>();
+            services.AddScoped<Data>();
         }
     }
 }

@@ -1,0 +1,17 @@
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\bin\Debug\net5.0\Mappers.deps.json
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\bin\Debug\net5.0\Mappers.dll
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\bin\Debug\net5.0\ref\Mappers.dll
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\bin\Debug\net5.0\Mappers.pdb
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\bin\Debug\net5.0\Models.dll
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\bin\Debug\net5.0\Models.pdb
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\obj\Debug\net5.0\Mappers.csprojAssemblyReference.cache
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\obj\Debug\net5.0\Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\obj\Debug\net5.0\Mappers.AssemblyInfoInputs.cache
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\obj\Debug\net5.0\Mappers.AssemblyInfo.cs
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\obj\Debug\net5.0\Mappers.csproj.CoreCompileInputs.cache
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\obj\Debug\net5.0\Mappers.csproj.CopyComplete
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\obj\Debug\net5.0\Mappers.dll
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\obj\Debug\net5.0\ref\Mappers.dll
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\obj\Debug\net5.0\Mappers.pdb
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\bin\Debug\net5.0\ModelsDTO.dll
+C:\SocialNetwork\Backend\SocialNetwork\Mappers\bin\Debug\net5.0\ModelsDTO.pdb

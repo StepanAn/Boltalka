@@ -1,4 +1,5 @@
-using Business.Infrastructure;
+using SocialNetworkBLL.Infrastructure;
+using Mapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -18,6 +19,7 @@ namespace Main
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper(typeof(PostBLPostMap), typeof(UserUserDTOMap));
             services.AddFunctional(Configuration.GetConnectionString("DefaultConnection"));
             services.AddSignalR();
             services.AddCors(options =>
@@ -30,7 +32,8 @@ namespace Main
                         .AllowCredentials();
                 });
             });
-            services.AddControllersWithViews();
+            services.AddControllers();
+            services.AddSwaggerGen();
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
@@ -40,7 +43,17 @@ namespace Main
                 app.UseCors("ClientPermission");
             }
 
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                c.RoutePrefix = string.Empty;
+            });
+
             app.UseRouting();
+
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
